@@ -5,7 +5,6 @@ dependencies:
   - python=3.7
   - spacy
   - ipykernel
-  - jupyter
   - beautifulsoup4
   - html5lib
 
